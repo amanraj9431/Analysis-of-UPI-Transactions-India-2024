@@ -73,5 +73,15 @@ Shopping, Grocery, Utilities, Education, Fuel, Entertainment, Healthcare, and mo
 
   These slicers allow for dynamic filtering of the visuals to focus on specific demographics or transaction results.
 
+ # 📌 Use Cases
+ 
+. Understanding UPI usage patterns in India.
+
+. Identifying potential fraud-prone categories.
+
+. Evaluating transaction behaviors by network and device.
+
+. Useful for analysts, fintech companies, or regulatory bodies.
+
 
 
